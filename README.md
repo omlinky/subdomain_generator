@@ -1,2 +1,1 @@
-# subdomain_generator
-Simple python subdomain generator
+#             Simple python subdomain generator
